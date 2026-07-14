@@ -1,3 +1,8 @@
+# DO NOT DOWNLOAD THIS
+# I changed some things in the code I don't remember, this is NOT the original repository!
+# THIS WILL NOT WORK FOR YOU
+
+#
 ![Deceive Logo](http://i.thijsmolendijk.nl/deceive.png)
 
 [![Discord](https://discordapp.com/api/guilds/249481856687407104/widget.png?style=shield)](https://discord.gg/bfxdsRC)
